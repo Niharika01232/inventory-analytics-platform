@@ -260,14 +260,4 @@ else:
 19. **Low Rating Supplier**: Supplier *Delta Products* (SUP012) has a rating of 3.1 stars due to item damage during transit.
 20. **SLA Penalties**: Implementing strict lead-time compliance clauses for *Global Freight Corp* (SUP002) could save $8,000 annually in stockout costs.
 
-*(Detailed insights 21-45 are fully documented in the respective Power BI dashboard pages and recommendation reports to guide local store operations.)*
 
----
-
-## 8. Business Recommendations (Consulting Playbook)
-
-1. **Automate Replenishment for AX Items**: Deploy automated ordering triggers in Power BI linking directly to supplier portals for all AX classified products.
-2. **Execute Inter-Warehouse Balancing**: Prioritize transfers from overstocked warehouses to stockout-prone regional hubs (e.g., WH02 to WH01) before placing fresh supplier orders.
-3. **Negotiate Minimum Order Quantities (MOQ)**: Renegotiate MOQs with suppliers of Z-items to match smaller, more frequent batches, saving up to 18% in holding costs.
-4. **Implement Vendor Scorecards**: Conduct quarterly reviews with suppliers holding reliability ratings under 80% and introduce SLA penalties for delivery delays.
-5. **Run Clearance Campaigns for Dead Stock**: Liquidate the 18 dead stock SKUs using bundle promotions or flash sales to free up storage space.
