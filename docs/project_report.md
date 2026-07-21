@@ -1,7 +1,4 @@
 # End-to-End Inventory Performance & Stock Optimization Platform
-**Corporate Consulting & Data Analytics Project Report**
-
----
 
 ## 1. Project Overview & Business Architecture
 
