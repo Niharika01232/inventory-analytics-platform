@@ -1,0 +1,129 @@
+product_id,product_name,category,unit_price,unit_cost,supplier_id,lead_time_days,min_order_qty
+PROD0001,Smartphone - Standard,Electronics,400.23,275.36,SUP007,20,200
+PROD0002,Smartphone - Pro,Electronics,766.66,424.28,SUP010,11,50
+PROD0003,Smartphone - Lite,Electronics,92.84,48.46,SUP015,11,200
+PROD0004,Smartphone - Elite,Electronics,299.93,225.35,SUP014,19,200
+PROD0005,Laptop - Standard,Electronics,170.46,86.1,SUP014,11,50
+PROD0006,Laptop - Pro,Electronics,342.18,257.63,SUP002,14,50
+PROD0007,Laptop - Lite,Electronics,385.91,180.84,SUP015,18,200
+PROD0008,Laptop - Elite,Electronics,40.03,25.13,SUP013,20,500
+PROD0009,Headphones - Standard,Electronics,577.1,266.1,SUP012,15,10
+PROD0010,Headphones - Pro,Electronics,198.25,136.84,SUP009,9,10
+PROD0011,Headphones - Lite,Electronics,515.6,348.65,SUP008,13,100
+PROD0012,Headphones - Elite,Electronics,625.07,319.55,SUP001,7,50
+PROD0013,Smartwatch - Standard,Electronics,231.03,164.52,SUP007,11,200
+PROD0014,Smartwatch - Pro,Electronics,206.63,152.25,SUP007,7,100
+PROD0015,Smartwatch - Lite,Electronics,414.86,268.13,SUP003,3,100
+PROD0016,Smartwatch - Elite,Electronics,113.06,58.22,SUP001,7,50
+PROD0017,Tablet - Standard,Electronics,168.37,110.01,SUP011,11,50
+PROD0018,Tablet - Pro,Electronics,22.79,16.31,SUP015,9,10
+PROD0019,Tablet - Lite,Electronics,254.68,144.89,SUP014,7,500
+PROD0020,Tablet - Elite,Electronics,363.62,245.23,SUP013,9,100
+PROD0021,Camera - Standard,Electronics,657.4,314.18,SUP010,15,10
+PROD0022,Camera - Pro,Electronics,88.86,51.94,SUP012,14,200
+PROD0023,Camera - Lite,Electronics,718.07,402.19,SUP010,9,10
+PROD0024,Camera - Elite,Electronics,237.44,126.1,SUP009,15,10
+PROD0025,Speaker - Standard,Electronics,203.66,140.63,SUP011,11,500
+PROD0026,Speaker - Pro,Electronics,482.99,313.13,SUP008,17,100
+PROD0027,Speaker - Lite,Electronics,262.97,148.83,SUP009,19,10
+PROD0028,Speaker - Elite,Electronics,179.6,117.99,SUP007,4,100
+PROD0029,T-Shirt - Standard,Apparel,216.16,138.89,SUP001,19,50
+PROD0030,T-Shirt - Pro,Apparel,307.89,228.69,SUP005,3,10
+PROD0031,T-Shirt - Lite,Apparel,159.65,111.61,SUP012,8,200
+PROD0032,T-Shirt - Elite,Apparel,66.91,40.98,SUP001,8,500
+PROD0033,Jeans - Standard,Apparel,535.58,286.38,SUP011,18,10
+PROD0034,Jeans - Pro,Apparel,126.65,72.07,SUP013,8,200
+PROD0035,Jeans - Lite,Apparel,224.81,150.05,SUP010,5,100
+PROD0036,Jeans - Elite,Apparel,222.07,160.16,SUP009,3,50
+PROD0037,Jacket - Standard,Apparel,720.85,377.78,SUP009,20,50
+PROD0038,Jacket - Pro,Apparel,226.86,119.78,SUP010,18,10
+PROD0039,Jacket - Lite,Apparel,360.51,234.9,SUP001,8,200
+PROD0040,Jacket - Elite,Apparel,530.8,253.44,SUP007,8,10
+PROD0041,Sneakers - Standard,Apparel,313.32,160.4,SUP003,3,200
+PROD0042,Sneakers - Pro,Apparel,61.35,42.44,SUP006,10,200
+PROD0043,Sneakers - Lite,Apparel,430.69,263.41,SUP009,5,10
+PROD0044,Sneakers - Elite,Apparel,10.47,7.25,SUP002,4,100
+PROD0045,Socks - Standard,Apparel,443.22,295.12,SUP001,6,10
+PROD0046,Socks - Pro,Apparel,328.39,224.78,SUP008,10,100
+PROD0047,Socks - Lite,Apparel,539.17,297.64,SUP012,21,500
+PROD0048,Socks - Elite,Apparel,468.79,221.6,SUP011,4,500
+PROD0049,Cap - Standard,Apparel,416.0,228.67,SUP001,7,200
+PROD0050,Cap - Pro,Apparel,506.94,326.49,SUP003,19,10
+PROD0051,Cap - Lite,Apparel,771.14,447.57,SUP014,8,100
+PROD0052,Cap - Elite,Apparel,728.74,337.73,SUP013,19,500
+PROD0053,Hoodie - Standard,Apparel,566.68,259.67,SUP004,3,100
+PROD0054,Hoodie - Pro,Apparel,144.85,80.42,SUP015,8,50
+PROD0055,Hoodie - Lite,Apparel,610.6,278.68,SUP002,12,50
+PROD0056,Hoodie - Elite,Apparel,306.56,148.54,SUP009,13,500
+PROD0057,Blender - Standard,Home & Kitchen,229.78,136.95,SUP002,15,200
+PROD0058,Blender - Pro,Home & Kitchen,407.28,232.55,SUP013,12,200
+PROD0059,Blender - Lite,Home & Kitchen,529.33,399.54,SUP002,4,100
+PROD0060,Blender - Elite,Home & Kitchen,379.48,212.19,SUP013,19,200
+PROD0061,Coffee Maker - Standard,Home & Kitchen,35.05,22.28,SUP011,7,10
+PROD0062,Coffee Maker - Pro,Home & Kitchen,576.67,373.4,SUP012,7,200
+PROD0063,Coffee Maker - Lite,Home & Kitchen,560.04,379.7,SUP014,17,100
+PROD0064,Coffee Maker - Elite,Home & Kitchen,563.89,288.66,SUP013,12,200
+PROD0065,Toaster - Standard,Home & Kitchen,431.82,322.99,SUP008,21,200
+PROD0066,Toaster - Pro,Home & Kitchen,512.81,336.1,SUP010,11,200
+PROD0067,Toaster - Lite,Home & Kitchen,272.24,186.98,SUP001,17,50
+PROD0068,Toaster - Elite,Home & Kitchen,154.66,111.71,SUP009,10,500
+PROD0069,Air Fryer - Standard,Home & Kitchen,279.79,129.57,SUP007,7,500
+PROD0070,Air Fryer - Pro,Home & Kitchen,291.98,191.72,SUP003,7,10
+PROD0071,Air Fryer - Lite,Home & Kitchen,217.26,157.14,SUP015,19,200
+PROD0072,Air Fryer - Elite,Home & Kitchen,109.21,83.02,SUP010,18,500
+PROD0073,Cookware Set - Standard,Home & Kitchen,314.02,215.69,SUP014,7,50
+PROD0074,Cookware Set - Pro,Home & Kitchen,522.27,279.05,SUP002,12,50
+PROD0075,Cookware Set - Lite,Home & Kitchen,736.06,420.38,SUP008,12,500
+PROD0076,Cookware Set - Elite,Home & Kitchen,105.69,77.51,SUP007,4,10
+PROD0077,Vacuum Cleaner - Standard,Home & Kitchen,732.06,390.9,SUP004,14,50
+PROD0078,Vacuum Cleaner - Pro,Home & Kitchen,368.28,260.15,SUP013,21,100
+PROD0079,Vacuum Cleaner - Lite,Home & Kitchen,698.45,423.95,SUP001,10,50
+PROD0080,Vacuum Cleaner - Elite,Home & Kitchen,149.97,96.97,SUP012,16,50
+PROD0081,Notebook - Standard,Office Supplies,41.47,22.34,SUP007,19,50
+PROD0082,Notebook - Pro,Office Supplies,302.75,146.94,SUP010,4,100
+PROD0083,Notebook - Lite,Office Supplies,183.43,130.43,SUP005,20,500
+PROD0084,Notebook - Elite,Office Supplies,563.23,421.81,SUP009,6,50
+PROD0085,Desk Organizer - Standard,Office Supplies,350.45,193.44,SUP003,19,100
+PROD0086,Desk Organizer - Pro,Office Supplies,308.34,188.61,SUP007,7,200
+PROD0087,Desk Organizer - Lite,Office Supplies,387.06,195.9,SUP009,5,10
+PROD0088,Desk Organizer - Elite,Office Supplies,308.26,173.09,SUP004,18,10
+PROD0089,Ergonomic Chair - Standard,Office Supplies,310.46,147.42,SUP001,6,200
+PROD0090,Ergonomic Chair - Pro,Office Supplies,890.04,431.55,SUP009,9,200
+PROD0091,Ergonomic Chair - Lite,Office Supplies,922.1,427.78,SUP003,17,500
+PROD0092,Ergonomic Chair - Elite,Office Supplies,84.39,45.81,SUP004,6,500
+PROD0093,Gel Pens - Standard,Office Supplies,718.31,357.25,SUP013,12,50
+PROD0094,Gel Pens - Pro,Office Supplies,54.93,30.61,SUP005,5,500
+PROD0095,Gel Pens - Lite,Office Supplies,226.49,161.16,SUP012,11,50
+PROD0096,Gel Pens - Elite,Office Supplies,785.16,377.45,SUP006,9,500
+PROD0097,Whiteboard - Standard,Office Supplies,172.41,104.05,SUP011,4,500
+PROD0098,Whiteboard - Pro,Office Supplies,352.46,233.43,SUP008,18,500
+PROD0099,Whiteboard - Lite,Office Supplies,345.24,169.94,SUP015,9,10
+PROD0100,Whiteboard - Elite,Office Supplies,433.5,268.39,SUP012,21,500
+PROD0101,Stapler - Standard,Office Supplies,335.07,173.2,SUP010,21,100
+PROD0102,Stapler - Pro,Office Supplies,196.25,117.89,SUP014,10,500
+PROD0103,Stapler - Lite,Office Supplies,731.07,371.14,SUP003,15,200
+PROD0104,Stapler - Elite,Office Supplies,709.27,433.17,SUP001,3,500
+PROD0105,Car Charger - Standard,Automotive,568.46,433.63,SUP013,17,500
+PROD0106,Car Charger - Pro,Automotive,51.83,24.31,SUP012,7,200
+PROD0107,Car Charger - Lite,Automotive,546.29,251.47,SUP002,17,10
+PROD0108,Car Charger - Elite,Automotive,158.82,101.48,SUP001,5,10
+PROD0109,Seat Cover - Standard,Automotive,891.71,412.29,SUP008,8,200
+PROD0110,Seat Cover - Pro,Automotive,84.13,52.51,SUP010,6,50
+PROD0111,Seat Cover - Lite,Automotive,267.82,177.78,SUP012,7,10
+PROD0112,Seat Cover - Elite,Automotive,206.11,120.68,SUP015,19,10
+PROD0113,Floor Mats - Standard,Automotive,290.11,142.74,SUP012,18,500
+PROD0114,Floor Mats - Pro,Automotive,87.96,64.27,SUP006,20,100
+PROD0115,Floor Mats - Lite,Automotive,607.39,327.95,SUP002,12,50
+PROD0116,Floor Mats - Elite,Automotive,362.75,250.46,SUP008,3,10
+PROD0117,Wiper Blades - Standard,Automotive,478.38,218.76,SUP011,19,500
+PROD0118,Wiper Blades - Pro,Automotive,44.34,33.26,SUP015,10,500
+PROD0119,Wiper Blades - Lite,Automotive,62.53,30.09,SUP001,7,500
+PROD0120,Wiper Blades - Elite,Automotive,807.25,448.5,SUP005,7,50
+PROD0121,Dash Cam - Standard,Automotive,583.3,383.09,SUP014,11,10
+PROD0122,Dash Cam - Pro,Automotive,792.76,429.55,SUP014,3,10
+PROD0123,Dash Cam - Lite,Automotive,458.85,341.86,SUP015,10,50
+PROD0124,Dash Cam - Elite,Automotive,391.84,226.68,SUP003,20,200
+PROD0125,Tire Inflator - Standard,Automotive,799.62,368.29,SUP014,19,500
+PROD0126,Tire Inflator - Pro,Automotive,543.44,281.04,SUP003,9,200
+PROD0127,Tire Inflator - Lite,Automotive,815.22,441.31,SUP002,17,100
+PROD0128,Tire Inflator - Elite,Automotive,88.9,45.5,SUP009,8,10

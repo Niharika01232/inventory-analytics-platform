@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,location,capacity_sqft,operational_cost_monthly
+WH01,North Hub,"Chicago, IL",150000,45000.0
+WH02,South Terminal,"Atlanta, GA",200000,55000.0
+WH03,East Gate,"Newark, NJ",180000,50000.0
+WH04,West Depot,"Los Angeles, CA",250000,75000.0
+WH05,Central Fulfillment,"Dallas, TX",350000,95000.0

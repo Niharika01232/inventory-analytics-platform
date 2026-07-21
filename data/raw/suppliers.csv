@@ -1,0 +1,16 @@
+supplier_id,supplier_name,contact_name,email,rating,reliability_score
+SUP001,Apex Logistics,John Doe,contact@apex.com,3.7,0.79
+SUP002,Global Freight Corp,Jane Smith,info@globalfreight.com,4.9,0.82
+SUP003,Prime Goods Ltd,Bob Johnson,sales@primegoods.co.uk,4.5,0.87
+SUP004,Summit Supply Chain,Alice Brown,summit@supply.com,4.2,0.85
+SUP005,Integra Manufacturing,Charlie Green,integra@mfg.net,3.3,0.82
+SUP006,Zenith Wholesalers,David White,zenith@wholesale.com,3.3,0.89
+SUP007,Horizon Distribution,Eva Black,horizon@dist.org,3.1,0.78
+SUP008,Pinnacle Imports,Frank Grey,pinnacle@imports.com,4.7,0.82
+SUP009,Omni Sources,Grace Pink,omni@sources.biz,4.2,0.83
+SUP010,Alpha Logistics,Henry Gold,alpha@logistics.com,4.4,0.85
+SUP011,Vanguard Industries,Ivy Silver,vanguard@ind.com,3.0,0.93
+SUP012,Delta Products,Jack Bronze,delta@products.com,4.9,0.8
+SUP013,Matrix Trade,Karen Copper,matrix@trade.net,4.7,0.87
+SUP014,Quantum Corp,Leo Brass,quantum@corp.com,3.4,0.89
+SUP015,Echo Supply,Mia Iron,echo@supply.org,3.4,0.76
